@@ -1,5 +1,7 @@
 # yarn-lock-cli
 
+[![npm](https://img.shields.io/npm/v/yarn-lock-cli.svg?style=flat)](https://www.npmjs.com/package/yarn-lock-cli)
+
 CLI tool for transforming registry in yarn.lock
 
 ## Feature
