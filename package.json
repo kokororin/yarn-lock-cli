@@ -1,6 +1,6 @@
 {
   "name": "yarn-lock-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CLI tool for transforming registry in yarn.lock",
   "bin": {
     "yarn-lock": "bin/yarn-lock.js"
